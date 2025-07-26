@@ -1,7 +1,7 @@
 # Hi there, I'm Nishant Kumar 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nishantkumar1799/nishantkumar1799/main/banner.png" alt="AI and Machine Learning Banner">
+  <img src="https://raw.githubusercontent.com/CHIKU1799/CHIKU1799/main/banner.png" alt="AI and Machine Learning Banner">
 </p>
 
 ## 🚀 About Me
