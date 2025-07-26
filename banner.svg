@@ -1,0 +1,20 @@
+<svg width="800" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" role="img" aria-label="Nishant Kumar's Banner: AI, Machine Learning, Data Science">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1D2B64;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#000000;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <rect width="100%" height="100%" rx="10" ry="10" fill="url(#grad1)" />
+
+  <text x="50%" y="45%" fill="#FFFFFF" font-size="42" font-family="'Segoe UI', 'Verdana', 'Geneva', 'Tahoma', sans-serif" font-weight="bold" text-anchor="middle" dominant-baseline="middle">
+    Nishant Kumar
+  </text>
+
+  <text x="50%" y="68%" fill="#C5C6C7" font-size="20" font-family="'Segoe UI', 'Verdana', 'Geneva', 'Tahoma', sans-serif" text-anchor="middle" dominant-baseline="middle">
+    AI • Machine Learning • Data Science
+  </text>
+  
+  <path fill="#FFFFFF" opacity="0.1" d="M11.75,21.5A3.75,3.75,0,0,1,8,17.75V13.5a1,1,0,0,1,2,0v4.25A1.75,1.75,0,0,0,11.75,19.5h0a1.75,1.75,0,0,0,1.71-1.5H12.5a1,1,0,0,1,0-2h1a1,1,0,0,1,0,2h-.94A3.73,3.73,0,0,1,11.75,21.5Zm8.5,0A3.75,3.75,0,0,1,16.5,17.75h0A3.75,3.75,0,0,1,20.25,14h.25a1,1,0,0,1,0,2h-.25a1.75,1.75,0,0,0-1.75,1.75h0A1.75,1.75,0,0,0,20.25,19.5H21.5a1,1,0,0,1,0,2H20.25ZM14.5,15.75a1,1,0,0,1-2,0V9.5h-1V7.75A3.75,3.75,0,0,1,15.25,4h.25a1,1,0,0,1,0,2h-.25A1.75,1.75,0,0,0,13.5,7.75V9.5h1v6.25ZM18,12.5a1,1,0,0,1-2,0V9.5a1,1,0,0,1,2,0Zm-6.25-8A3.75,3.75,0,0,1,8,8.25H7.5a1,1,0,0,1,0-2h.5A1.75,1.75,0,0,0,9.75,4.5H8a1,1,0,0,1,0-2h1.75Z" transform="translate(20, 80) scale(2.5)"/>
+</svg>
