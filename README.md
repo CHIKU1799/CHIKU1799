@@ -27,9 +27,9 @@ Here are a few of the languages, frameworks, and tools I'm proficient in.
 [cite_start]![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) [cite: 66]
 
 #### Data Science & Machine Learning
-[cite_start]![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) [cite: 61]
-[cite_start]![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) [cite: 61]
-[cite_start]![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?style=for-the-badge) [cite: 62]
+[TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) [cite: 61]
+[Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) [cite: 61]
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-blue?style=for-the-badge) [cite: 62]
 [cite_start]![NLTK](https://img.shields.io/badge/NLTK-306998?style=for-the-badge) [cite: 59]
 [cite_start]![spaCy](https://img.shields.io/badge/spaCy-09a3d5?style=for-the-badge&logo=spaCy&logoColor=white) [cite: 59]
 [cite_start]![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=Playwright&logoColor=white) [cite: 65]
